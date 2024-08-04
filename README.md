@@ -1,2 +1,2 @@
 # JEMall.ERP
-erp 管理系统. test
+erp 管理系统
